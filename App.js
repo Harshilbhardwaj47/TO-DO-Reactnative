@@ -7,11 +7,11 @@ export default function App() {
     <View style={styles.container}>
       {/*Todays Task*/}
 
-      <View styles={styles.taskwrapper}>
+      <View style={styles.taskwrapper}>
           
-          <Text styles={styles.sectiontitle}>Today's task</Text>
+          <Text style={styles.sectiontitle}>Today's task</Text>
 
-          <View styles={styles.items}>
+          <View style={styles.items}>
             {/*there is where task will go*/}
              <Task text={'Task 1'}/>
              <Task text={'Task 2'}/>
