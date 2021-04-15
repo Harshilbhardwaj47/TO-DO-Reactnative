@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "TODO",
+    "name": "TO-DO",
     "slug": "TODO",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "TO-DO application to keep a track on your daily schedule in react-native",
+    "githubUrl": "https://github.com/Harshilbhardwaj47/TO-DO-Reactnative"
   }
 }
